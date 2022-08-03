@@ -1,0 +1,247 @@
+.btn1 {
+    background-color: #ffff00;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 160px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn2 {
+    background-color: #0CB7F2;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 170px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn3 {
+    background-color: #0000ff;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 159px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn1:hover { 
+    background-color: #ffff39;
+}
+
+.btn2:hover { 
+    background-color: #84c6ed;
+}
+
+.btn3:hover { 
+    background-color: #3939ff;
+}
+
+.a, .btn1, .btn2, .btn3 {
+    text-decoration: none;
+}
+
+.a, .btn1:hover, .btn2:hover, .btn3:hover {
+    color: #fff;
+}
+
+.h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn4 {
+    background-color: #ffff00;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 180px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn5 {
+    background-color: #0CB7F2;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 179px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn6 {
+    background-color: #0000ff;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 179px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn4:hover { 
+    background-color: #ffff39;
+}
+
+.btn5:hover { 
+    background-color: #84c6ed;
+}
+
+.btn6:hover { 
+    background-color: #3939ff;
+}
+
+.a, .btn4, .btn5, .btn6 {
+    text-decoration: none;
+}
+
+.a, .btn4:hover, .btn5:hover, .btn6:hover {
+    color: #fff;
+}
+
+/* TIENDAS */
+
+.btn7 {
+    background-color: #ffff00;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 176px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn8 {
+    background-color: #0CB7F2;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 179px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn9 {
+    background-color: #0000ff;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 176px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn7:hover { 
+    background-color: #ffff39;
+}
+
+.btn8:hover { 
+    background-color: #84c6ed;
+}
+
+.btn9:hover { 
+    background-color: #3939ff;
+}
+
+.a, .btn7, .btn8, .btn9 {
+    text-decoration: none;
+}
+
+.a, .btn7:hover, .btn8:hover, .btn9:hover {
+    color: #fff;
+}
+
+/* Contactenos */
+
+.btn10 {
+    background-color: #ffff00;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 119px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn11 {
+    background-color: #0CB7F2;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 119px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn12 {
+    background-color: #0000ff;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 119px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn13 {
+    background-color: #7e7e7e;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 119px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn10:hover { 
+    background-color: #ffff39;
+}
+
+.btn11:hover { 
+    background-color: #84c6ed;
+}
+
+.btn12:hover { 
+    background-color: #3939ff;
+}
+
+.btn13:hover { 
+    background-color: #a8a8a8;
+}
+
+.a, .btn10, .btn11, .btn12, .btn13 {
+    text-decoration: none;
+}
+
+.a, .btn10:hover, .btn11:hover, .btn12:hover, .btn13:hover {
+    color: #fff;
+}
