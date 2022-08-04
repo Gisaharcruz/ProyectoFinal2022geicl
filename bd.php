@@ -1,0 +1,9 @@
+<?php
+session_start();
+$conect=mysqli_connect(
+    'localhost',
+    'root',
+    '',
+    'mensajes'
+);
+?>

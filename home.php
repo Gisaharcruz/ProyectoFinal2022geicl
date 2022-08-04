@@ -20,6 +20,12 @@
     <div class="carousel-item">
       <img height="500px" width="200px" src="images/3.jfif" class="d-block w-100" alt="...">
     </div>
+    <div class="carousel-item">
+      <img height="500px" width="200px" src="images/4.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img height="500px" width="200px" src="images/5.jpg" class="d-block w-100" alt="...">
+    </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>

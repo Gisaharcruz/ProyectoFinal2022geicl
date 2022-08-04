@@ -1,0 +1,55 @@
+.btn14 {
+    background-color: #ffff00;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 178px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn15 {
+    background-color: #0CB7F2;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 179px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn16 {
+    background-color: #0000ff;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 7px 178px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+.btn14:hover { 
+    background-color: #ffff39;
+}
+
+.btn15:hover { 
+    background-color: #84c6ed;
+}
+
+.btn16:hover { 
+    background-color: #3939ff;
+}
+
+.a, .btn14, .btn15, .btn16 {
+    text-decoration: none;
+}
+
+.a, .btn14:hover, .btn15:hover, .btn16:hover {
+    color: #fff;
+}
