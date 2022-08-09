@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Log In</title>
+    <title>Iniciar Sesión</title>
     <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
@@ -14,17 +14,17 @@
             <div class="circle-2"></div>
             <div class="circle-3"></div>
             <div class="box">
-                <h3>Welcome</h3>
+                <h3>¡Bienvenido!</h3>
                 <form action="home.php" method="POST">
                     <div class="input-box">
-                        <input type="text" placeholder="User" class="input-control">
+                        <input type="text" placeholder="Usuario" class="input-control">
                     </div>
                     <div class="input-box">
-                        <input type="password" placeholder="Password" class="input-control">
+                        <input type="password" placeholder="Contraseña" class="input-control">
                     </div>
-                    <button type="submit" class="btn">Log In</button>
+                    <button type="submit" class="btn">Iniciar Sesión</button>
                 </form>
-                <p>Don't have an account? <a href="register.php" class="gradient-text">Register</a></p>
+                <p>¿No tienes una cuenta? <a href="register.php" class="gradient-text">Crear Cuenta</a></p>
             </div>
         </div>
     </section>

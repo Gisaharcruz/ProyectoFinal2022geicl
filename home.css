@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.gallery {
+    padding-bottom: 3em;
+    padding-top: 1em;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 160px;
+    grid-template-areas: 
+    "producto1 producto1 producto2 producto3"
+    "producto1 producto1 producto4 producto4";
+    gap: .8em;   
+}
+
+.gallery__img {
+    width: 100%;
+    height: 100%;
+}

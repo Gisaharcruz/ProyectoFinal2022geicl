@@ -22,25 +22,25 @@
             <div class="circle-2"></div>
             <div class="circle-3"></div>
             <div class="box">
-                <h3>Contact Us</h3>
+                <h3>Contactenos</h3>
                 <form action="" method="POST">
-                    <p class="text-start">Names</p>
+                    <p class="text-start">Nombre</p>
                     <div class="input-box">
-                        <input type="text" placeholder="Enter First and Last Name" class="input-control">
+                        <input type="text" placeholder="Introduzca su Nombre & Apellido" class="input-control">
                     </div>
-                    <p class="text-start">Phone/Cell Phone</p>
+                    <p class="text-start">Telefono/Celular</p>
                     <div class="input-box">
-                        <input type="text" placeholder="Enter phone number" class="input-control">
+                        <input type="text" placeholder="Introduzca su Numero de Telefono" class="input-control">
                     </div>
-                    <p class="text-start">Email</p>
+                    <p class="text-start">Correo Electronico</p>
                     <div class="input-box">
-                        <input type="text" placeholder="Enter Email" class="input-control">
+                        <input type="text" placeholder="Introduzca su Correo Electronico" class="input-control">
                     </div>
-                    <p class="text-start">Menssage</p>
+                    <p class="text-start">Mensaje</p>
                     <div class="input-box">
-                        <input type="text" placeholder="Enter your Message" class="input-control">
+                        <input type="text" placeholder="Introduzca su Mensaje" class="input-control">
                     </div>
-                    <button type="submit" class="btn">Send Menssage</button>
+                    <button type="submit" class="btn">Enviar Mensaje</button>
                 </form>
             </div>
         </div>

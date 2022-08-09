@@ -5,8 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="stylehome.css">
     <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="home.css">
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 <body>
@@ -44,6 +46,30 @@
 <br><br>
 
 <h3 class="h3"> &nbsp; Orfertas del Mes</h3>
+<br>
+
+
+<main class="main">
+
+  <section class="gallery">
+      <figure class="gallery__picture gallery__picture--g1">
+      <img src="images/producto1.png" class="gallery__img">
+      </figure>
+
+      <figure class="gallery__picture gallery__picture--g2">
+      <img src="images/producto2.png" class="gallery__img">
+      </figure>
+
+      <figure class="gallery__picture gallery__picture--g3">
+      <img src="images/producto3.png" class="gallery__img">
+      </figure>
+
+      <figure class="gallery__picture gallery__picture--g4">
+      <img src="images/producto4.png" class="gallery__img">
+      </figure>
+
+  </section>
+</main>
 
 <footer class="footer">
 &nbsp; &nbsp; &nbsp; &nbsp; PBX: 1749 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dirección: 8va. Calle 23-34 Zona 14 San Miguelito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Carnet: 2021-40001 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nombre: Gilmar Elibán Isahar Crúz Lucas

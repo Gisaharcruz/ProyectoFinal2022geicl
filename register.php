@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register</title>
+    <title>Registrarse</title>
     <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
@@ -14,23 +14,23 @@
             <div class="circle-2"></div>
             <div class="circle-3"></div>
             <div class="box">
-                <h3>Register</h3>
+                <h3>Registrarse</h3>
                 <form action="">
                     <div class="input-box">
-                        <input type="text" placeholder="Name" class="input-control">
+                        <input type="text" placeholder="Nombre" class="input-control">
                     </div>
                     <div class="input-box">
-                        <input type="text" placeholder="Surname" class="input-control">
+                        <input type="text" placeholder="Apellido" class="input-control">
                     </div>
                     <div class="input-box">
-                        <input type="text" placeholder="User" class="input-control">
+                        <input type="text" placeholder="Usuario" class="input-control">
                     </div>
                     <div class="input-box">
-                        <input type="password" placeholder="Password" class="input-control">
+                        <input type="password" placeholder="Contraseña" class="input-control">
                     </div>
-                    <button type="submit" class="btn">Create account</button>
+                    <button type="submit" class="btn">Registrarse</button>
                 </form>
-                <p>You already have an account? <a href="login.php" class="gradient-text">Log In</a></p>
+                <p>¿Ya tienes una cuenta? <a href="index.php" class="gradient-text">Iniciar Sesión</a></p>
             </div>
         </div>
     </section>

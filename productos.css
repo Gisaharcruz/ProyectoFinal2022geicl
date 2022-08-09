@@ -1,0 +1,59 @@
+.parent {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+
+.parent1 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+    }
+
+.control {
+    width: 90%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.control2 {
+    width: 90%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.control3 {
+    width: 90%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.control4 {
+    width: 90%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div1 {
+    padding: 7px 40px;
+}
+
+.div2 {
+    padding: 7px 40px;
+}
+
+.div3 {
+    padding: 7px 40px;
+}
+
+.div4 {
+    padding: 7px 40px;
+}

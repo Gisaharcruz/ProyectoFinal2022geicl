@@ -1,5 +1,34 @@
 .centro {
-    width: 40%;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 0px;
+    }
+
+.centro1 {
+    height: 150%;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centro2 {
+    height: 150%;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centro3 {
+    height: 100%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
 }
