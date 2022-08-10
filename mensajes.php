@@ -23,6 +23,7 @@
 <div class="col-8">
         <table>
           <tr>
+            <th>No. Mensajes </th>
             <th>Nombre </th>
             <th>Telefono</th>
             <th>Correo</th>
@@ -30,17 +31,25 @@
           </tr>
 <?php
   include('bd.php');
-    $query = "SELECT nombre, telefono, correo, mensaje FROM mensajes";
+    $query = "SELECT no_mensajes, nombre, telefono, correo, mensaje FROM mensajes";
     $resultado = mysqli_query($conect, $query);
     while($row=mysqli_fetch_array($resultado)){
 ?>
 
 <tr>
+            <td><?php echo $row['no_mensajes']?></td>
             <td><?php echo $row['nombre']?></td>
             <td><?php echo $row['telefono']?></td>
             <td><?php echo $row['correo']?></td>
             <td><?php echo $row['mensaje']?></td>
             <td>
+          
+          <form action="get">
+            <a href="eliminarmensajes.php?id=<?php echo $row['no_mensajes']; ?>">
+            <img src="images/borrar.png" width="40px" height="40px"></a>
+        </td>
+
+          </tr>
         <?php } ?>
         </table>
         </div>

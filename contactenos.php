@@ -23,24 +23,24 @@
             <div class="circle-3"></div>
             <div class="box">
                 <h3>Contactenos</h3>
-                <form action="" method="POST">
+                <form action="insertarcontacto.php" method="POST">
                     <p class="text-start">Nombre</p>
                     <div class="input-box">
-                        <input type="text" placeholder="Introduzca su Nombre & Apellido" class="input-control">
+                        <input type="text" name="nombre" placeholder="Introduzca su Nombre & Apellido" class="input-control">
                     </div>
                     <p class="text-start">Telefono/Celular</p>
                     <div class="input-box">
-                        <input type="text" placeholder="Introduzca su Numero de Telefono" class="input-control">
+                        <input type="text" name="telefono" placeholder="Introduzca su Numero de Telefono" class="input-control">
                     </div>
                     <p class="text-start">Correo Electronico</p>
                     <div class="input-box">
-                        <input type="text" placeholder="Introduzca su Correo Electronico" class="input-control">
+                        <input type="text" name="correo" placeholder="Introduzca su Correo Electronico" class="input-control">
                     </div>
                     <p class="text-start">Mensaje</p>
                     <div class="input-box">
-                        <input type="text" placeholder="Introduzca su Mensaje" class="input-control">
+                        <input type="text" name="mensaje" placeholder="Introduzca su Mensaje" class="input-control">
                     </div>
-                    <button type="submit" class="btn">Enviar Mensaje</button>
+                    <button type="submit" name="aceptar" class="btn">Enviar Mensaje</button>
                 </form>
             </div>
         </div>
