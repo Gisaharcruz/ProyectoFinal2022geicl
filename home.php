@@ -68,6 +68,22 @@
       <img src="images/producto4.png" class="gallery__img">
       </figure>
 
+      <figure class="gallery__picture gallery__picture--g5">
+      <img src="images/producto5.png" class="gallery__img">
+      </figure>
+
+      <figure class="gallery__picture gallery__picture--g6">
+      <img src="images/producto6.png" class="gallery__img">
+      </figure>
+
+      <figure class="gallery__picture gallery__picture--g7">
+      <img src="images/producto7.png" class="gallery__img">
+      </figure>
+
+      <figure class="gallery__picture gallery__picture--g8">
+      <img src="images/producto8.png" class="gallery__img">
+      </figure>
+
   </section>
 </main>
 
