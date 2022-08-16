@@ -34,7 +34,7 @@
     cursor: pointer;
 }
 
-.btn13 {
+/*.btn13 {
     background-color: #7e7e7e;
     border: none;
     font-family: 'Poppins', sans-serif;
@@ -44,7 +44,7 @@
     font-size: 15px;
     margin: 1px 1px;
     cursor: pointer;
-}
+}*/
 
 .btn10:hover { 
     background-color: #ffff39;
@@ -58,14 +58,14 @@
     background-color: #3939ff;
 }
 
-.btn13:hover { 
+/*.btn13:hover { 
     background-color: #a8a8a8;
-}
+}*/
 
-.a, .btn10, .btn11, .btn12, .btn13 {
+.a, .btn10, .btn11, .btn12/*, .btn13*/ {
     text-decoration: none;
 }
 
-.a, .btn10:hover, .btn11:hover, .btn12:hover, .btn13:hover {
+.a, .btn10:hover, .btn11:hover, .btn12:hover/*, .btn13:hover*/ {
     color: #fff;
 }
