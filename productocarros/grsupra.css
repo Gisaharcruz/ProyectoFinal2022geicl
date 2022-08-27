@@ -78,11 +78,14 @@ body {
 
 .hero__main{
     height: calc(100vh - 70px);
+    display: flex;
+    align-items: center;
+    padding: 0%;
 }
 
 .mockup{
     object-fit: cover;
-    height: calc(50vh - 60px);
+    height: calc(20vh - 70px);
 }
 
 .title{
@@ -116,4 +119,67 @@ body {
     font-weight: 700;
     box-shadow: var(--shadow) var(--color_shadow);
     border-radius: 6px;
+}
+
+/* Servicios */
+
+.servicies{
+    background: #fafafa;
+}
+
+.subtitle--modifier{
+    text-align: center;
+    margin: 16px;
+}
+
+.copy__section{
+    color: var(--black2);
+    font-size: 22px;
+    line-height: 32px;
+    margin-bottom: 60px;
+}
+
+.copy__section--modifier{
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.container-card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card{
+   width: 30%; 
+   padding: 30px 0;
+   overflow: hidden;
+   background: linear-gradient(180deg, #30353b 0%, #1a1b1f 100%);
+   border-radius: 10px;
+   position: relative;
+   /*text-align: right;*/
+   margin-bottom: 60px;
+   box-shadow: 0 0 6px var(--color_shadow);
+}
+
+.card__img{
+    width: 95%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px 0 0 10px;
+}
+
+.cards__text{
+    text-align: left;
+    width: 95%;
+    margin-left: auto;
+    padding-right: 25px;
+}
+
+.card__list{
+    color: var(--gold2);
+    font-weight: 700;
+    margin: 25px 0 12px;
+    font-size: 18px;
 }

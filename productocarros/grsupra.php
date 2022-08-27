@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../productocarros/grsupra2.css">
+    <link rel="stylesheet" href="../productocarros/grsupra.css">
     <title>Toyota GR Supra</title>
 </head>
 <body>
@@ -30,7 +30,7 @@
                 <p class="copy">Nos encargamos que usted tenga la mejor experiencia <span class="copy__active">de su vida</span></p>
                 <a href="#" class="cta">Compra tu carro</a>
             </div>
-            <img src="../images/supra.jpg" class="mockup">
+            <img src="../images/producto1.jpg" class="mockup">
         </section>
     </header>
 
@@ -49,6 +49,7 @@
                             <p class="card__copy">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus deserunt sit soluta enim quidem accusantium, commodi ad similique optio ipsam beatae maiores voluptate odit officia vel molestias, officiis ducimus nam.</p>
                             <a href="#" class="card__button">Comienza tu sueño con Toyota</a>
                         </div>
+                    </div>
 
                         <div class="card">
                         <img src="../images/supra.jpg" class="card__img">
@@ -58,6 +59,7 @@
                             <p class="card__copy">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus deserunt sit soluta enim quidem accusantium, commodi ad similique optio ipsam beatae maiores voluptate odit officia vel molestias, officiis ducimus nam.</p>
                             <a href="#" class="card__button">Comienza tu sueño con Toyota</a>
                         </div>
+                    </div>
 
                         <div class="card">
                         <img src="../images/supra.jpg" class="card__img">
