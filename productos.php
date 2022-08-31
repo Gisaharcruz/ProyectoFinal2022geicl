@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="styleproductos.css">
     <link rel="stylesheet" href="footer.css">
     <link rel="stylesheet" href="productos.css">
+    <link rel="stylesheet" href="1.css">
 </head>
 <body>
 <a href="home.php" class="btn4">Inicio</a>

@@ -47,44 +47,28 @@
 <h3 class="h3"> &nbsp; Orfertas del Mes</h3>
 <br>
 
-
-<main class="main">
-
-  <section class="gallery">
-      <figure class="gallery__picture gallery__picture--g1">
-      <img src="images/producto1.png" class="gallery__img">
-      </figure>
-
-      <figure class="gallery__picture gallery__picture--g2">
-      <img src="images/producto2.png" class="gallery__img">
-      </figure>
-
-      <figure class="gallery__picture gallery__picture--g3">
-      <img src="images/producto3.png" class="gallery__img">
-      </figure>
-
-      <figure class="gallery__picture gallery__picture--g4">
-      <img src="images/producto4.png" class="gallery__img">
-      </figure>
-
-      <figure class="gallery__picture gallery__picture--g5">
-      <img src="images/producto5.png" class="gallery__img">
-      </figure>
-
-      <figure class="gallery__picture gallery__picture--g6">
-      <img src="images/producto6.png" class="gallery__img">
-      </figure>
-
-      <figure class="gallery__picture gallery__picture--g7">
-      <img src="images/producto7.png" class="gallery__img">
-      </figure>
-
-      <figure class="gallery__picture gallery__picture--g8">
-      <img src="images/producto8.png" class="gallery__img">
-      </figure>
-
-  </section>
-</main>
+    </table>
+    <br>
+    <div class="contenedor">
+        <table width="100%" align="center">
+            <tr>
+                <td colspan="6" rowspan="2">
+                    <img src="images/logo.jpg" width="420px" height="420px">
+                </td>
+                <td colspan="3">
+                    <img src="images/producto2.png" width="400px" height="300px">
+                </td>
+                <td colspan="3">
+                    <img src="images/producto3.png" width="400px" height="300px">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="6"><br>
+                    <img src="images/toyota__abajo.jpg" width="815px" height="350px">
+                </td>
+            </tr>
+        </table>
+        <br>
 
 <footer class="footer">
 &nbsp; &nbsp; &nbsp; &nbsp; PBX: 1749 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dirección: 8va. Calle 23-34 Zona 14 San Miguelito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Carnet: 2021-40001 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nombre: Gilmar Elibán Isahar Crúz Lucas
