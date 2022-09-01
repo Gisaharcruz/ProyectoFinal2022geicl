@@ -25,25 +25,25 @@
 <div class="div1">&nbsp; <img class="control" src="images/producto.png" alt=""><br><br>
 <h5 align="center">Toyota GR Supra</h5>
 <p align="center">Precio: Q348,320.00</p><br>
-<center><a class="bt1" href="https://www.toyota.com/espanol/grsupra/">Más Información</a></center>
+<center><a class="bt1" href="http://localhost/pcc22isaharcruz/productocarros/prius.php">Más Información</a></center>
 </div>
 
 <div class="div2">&nbsp; <img class="control2" src="images/producto1.png" alt=""><br><br>
 <h5 align="center">Toyota Corolla</h5>
 <p align="center">Precio: Q163,400.00</p><br>
-<center><a class="bt1" href="https://www.toyota.com/espanol/corolla/">Más Información</a></center>
+<center><a class="bt1" href="http://localhost/pcc22isaharcruz/productocarros/corolla.php">Más Información</a></center>
 </div>
 
 <div class="div3">&nbsp; <img class="control3" src="images/producto2.png" alt=""><br><br>
 <h5 align="center">Toyota Avalon</h5>
 <p align="center">Precio: Q294,600.00</p><br>
-<center><a class="bt1" href="https://www.toyota.com/espanol/avalon/">Más Información</a></center>
+<center><a class="bt1" href="http://localhost/pcc22isaharcruz/productocarros/avalon.php">Más Información</a></center>
 </div>
 
 <div class="div4">&nbsp; <img class="control4" src="images/producto3.png" alt=""><br><br>
 <h5 align="center">Toyota Prius</h5>
 <p align="center">Precio: Q200,600.00</p><br>
-<center><a class="bt1" href="https://www.toyota.com/espanol/prius/">Más Información</a></center>
+<center><a class="bt1" href="http://localhost/pcc22isaharcruz/productocarros/prius.php">Más Información</a></center>
 </div>
 </div>
 <br><br>
@@ -54,13 +54,13 @@
 <div class="div1">&nbsp; <img class="control" src="images/producto4.png" alt=""><br><br>
 <h5 align="center">Toyota Avalon Hybrid</h5>
 <p align="center">Precio: Q302,800.00</p><br>
-<center><a class="bt1" href="https://www.toyota.com/espanol/avalonhybrid/">Más Información</a></center>
+<center><a class="bt1" href="http://localhost/pcc22isaharcruz/productocarros/avalonhybrid.php">Más Información</a></center>
 </div>
 
 <div class="div1">&nbsp; <img class="control2" src="images/producto5.png" alt=""><br><br>
-<h5 align="center">Toyota Camry Hybrid</h5>
+<h5 align="center">Toyota Camary Hybrid</h5>
 <p align="center">Precio: Q224,000.00</p><br>
-<center><a class="bt1" href="https://www.toyota.com/espanol/camryhybrid/">Más Información</a></center>
+<center><a class="bt1" href="http://localhost/pcc22isaharcruz/productocarros/camaryhybrid.php">Más Información</a></center>
 </div>
 
 <div class="div1">&nbsp; <img class="control3" src="images/producto6.png" alt=""><br><br>

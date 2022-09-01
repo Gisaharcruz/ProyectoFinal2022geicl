@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../productocarros/avalon.css">
-    <title>Toyota Corolla</title>
+    <link rel="stylesheet" href="../productocarros/grsupra2.css">
+    <title>Toyota GR Supra</title>
 </head>
 <body>
     <header class="hero">
@@ -26,11 +26,11 @@
 
         <section class="container hero_main">
             <div class="hero__textos">
-                <h1 class="title">Datos Tecnicos del <span class="title__active">Toyota GR Supra</span></h1>
-                <p class="copy">Nos encargamos que usted tenga la mejor experiencia <span class="copy__active">de su vida.</span></p>
+                <h1 class="title">Datos Tecnicos del <span class="title--active">Toyota GR Supra.</span></h1>
+                <p class="copy">Nos encargamos que usted tenga la mejor experiencia <span class="copy__active">de su vida</span></p>
                 <a href="#" class="cta">Compra tu carro</a>
             </div>
-            <img src="../images/supra.jpg" alt="">
+            <img src="../images/producto1.png" class="mockup">
         </section>
     </header>
 
@@ -38,7 +38,7 @@
         <section class="services">
             <div class="container">
                 <h2 class="subtitle">Nuestros servicios<span class="point">.</span> </h2>
-                <p class="copy__section">Aprovecha nustros descuentos de medio año, llevate tu carro de tus sueños.</p>
+                <p class="copy__section">Aprovecha nustros descuentos de medio año, llevate el carro de tus sueños.</p>
 
                 <article class="container-card">
                     <div class="card">
@@ -49,6 +49,7 @@
                             <p class="card__copy">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus deserunt sit soluta enim quidem accusantium, commodi ad similique optio ipsam beatae maiores voluptate odit officia vel molestias, officiis ducimus nam.</p>
                             <a href="#" class="card__button">Comienza tu sueño con Toyota</a>
                         </div>
+                    </div>
 
                         <div class="card">
                         <img src="../images/supra.jpg" class="card__img">
@@ -58,6 +59,7 @@
                             <p class="card__copy">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus deserunt sit soluta enim quidem accusantium, commodi ad similique optio ipsam beatae maiores voluptate odit officia vel molestias, officiis ducimus nam.</p>
                             <a href="#" class="card__button">Comienza tu sueño con Toyota</a>
                         </div>
+                    </div>
 
                         <div class="card">
                         <img src="../images/supra.jpg" class="card__img">
@@ -79,9 +81,9 @@
 
             <div class="card">
                 <div class="cards__text">
-                <h3 class="card__title">Diseño Web Toyota<span class="point">.</span></h3>
+                <h3 class="card__title">Diseño Toyota<span class="point">.</span></h3>
                 <p class="card__date">22 de agosto de 2022</p>
-                <p class="card__copy">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus deserunt sit soluta enim quidem accusantium, commodi ad similique optio ipsam beatae maiores voluptate odit officia vel molestias, officiis ducimus nam.</p>
+                <p class="card__copy">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus deserunt sit soluta.</p>
                 <a href="#" class="card__button">Comienza tu sueño con Toyota</a>
                 </div>
             </div>
@@ -95,9 +97,9 @@
 
             <div class="card">
                 <div class="cards__text">
-                <h3 class="card__title">Diseño Web Toyota<span class="point">.</span></h3>
+                <h3 class="card__title">Diseño Toyota<span class="point">.</span></h3>
                 <p class="card__date">22 de agosto de 2022</p>
-                <p class="card__copy">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus deserunt sit soluta enim quidem accusantium, commodi ad similique optio ipsam beatae maiores voluptate odit officia vel molestias, officiis ducimus nam.</p>
+                <p class="card__copy">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus deserunt sit soluta.</p>
                 <a href="#" class="card__button">Comienza tu sueño con Toyota</a>
                 </div>
             </div>
@@ -141,13 +143,13 @@
 
                     <div class="testimony__card">
                         <div class="testimony__text">
-                            <img src="../images/google-logo.ico" class="gooogle__logo">
+                            <img src="../images/google-logo.ico" class="google__logo">
                             <p class="testimony__history">Desde que empezamos a trabajar con Toyota comenzamos a tener resultados increíbles. Ahora hemos llegado a un mayor número de clientes potenciales.</p>
                             <div class="testimony__copy testimony__copy--modifier">
-                        <img src="../images/producto1.png" class="testimony__logo logo--picture">
+                            <img src="../images/producto1.png" class="logo--picture">
                             <div class="testimony__info">
                                 <h3 class="testimony__name">Gilmar Cruz</h3>
-                                <p class="testimony__position">Director de Apple Guatemala</p>
+                                <p class="testimony__position">Director de Google Guatemala</p>
                                 </div>
                             </div>
                         </div>
@@ -162,7 +164,7 @@
 
             <div class="check">
                 <div class="check__item">
-                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAPVJREFUWEft1d0NwjAMRtHbCWADVmAEGIFJGQFGYARGgA2QpUaqEK7j/JQ8uG9tLOXkS+pMDPZMg3kIkLUjkVAkZCVgjccZioRWEjgCV+ACPLS6rc6QYG7AHngBZw21BWiJkWDewOlfIBdGtD0TcmN6goowvUDFGA9IJpFH/V3n8SpMLihNIvXq7wpUY3JBT+AwJ6D1kCaYXJBMdgd2CqoZJhckdRpKxlIHNpuedbF6QBpKvst10ATjBf1CpUWvXgc5yaSakk79vX3NMCUJpYUklLyrF6UnmZqElqicZulylWyZawJvcYCsxCKhSMhKwBof7gx9ABZlOyVD+0LSAAAAAElFTkSuQmCC"/>
+                <img class="bx-check" src="../images/garrapata.png"/>
                 <div class="check__numbers">
                     <p class="check__number">+200</p>
                     <p class="check__copy">Proyectos Exitosos</p>
@@ -170,7 +172,7 @@
                 </div>
 
                 <div class="check__item">
-                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAPVJREFUWEft1d0NwjAMRtHbCWADVmAEGIFJGQFGYARGgA2QpUaqEK7j/JQ8uG9tLOXkS+pMDPZMg3kIkLUjkVAkZCVgjccZioRWEjgCV+ACPLS6rc6QYG7AHngBZw21BWiJkWDewOlfIBdGtD0TcmN6goowvUDFGA9IJpFH/V3n8SpMLihNIvXq7wpUY3JBT+AwJ6D1kCaYXJBMdgd2CqoZJhckdRpKxlIHNpuedbF6QBpKvst10ATjBf1CpUWvXgc5yaSakk79vX3NMCUJpYUklLyrF6UnmZqElqicZulylWyZawJvcYCsxCKhSMhKwBof7gx9ABZlOyVD+0LSAAAAAElFTkSuQmCC"/>
+                <img class="bx-check" src="../images/garrapata.png"/>
                 <div class="check__numbers">
                     <p class="check__number">+200</p>
                     <p class="check__copy">Proyectos Exitosos</p>
@@ -178,7 +180,7 @@
                 </div>
 
                 <div class="check__item">
-                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAPVJREFUWEft1d0NwjAMRtHbCWADVmAEGIFJGQFGYARGgA2QpUaqEK7j/JQ8uG9tLOXkS+pMDPZMg3kIkLUjkVAkZCVgjccZioRWEjgCV+ACPLS6rc6QYG7AHngBZw21BWiJkWDewOlfIBdGtD0TcmN6goowvUDFGA9IJpFH/V3n8SpMLihNIvXq7wpUY3JBT+AwJ6D1kCaYXJBMdgd2CqoZJhckdRpKxlIHNpuedbF6QBpKvst10ATjBf1CpUWvXgc5yaSakk79vX3NMCUJpYUklLyrF6UnmZqElqicZulylWyZawJvcYCsxCKhSMhKwBof7gx9ABZlOyVD+0LSAAAAAElFTkSuQmCC"/>
+                <img class="bx-check" src="../images/garrapata.png"/>
                 <div class="check__numbers">
                     <p class="check__number">+200</p>
                     <p class="check__copy">Proyectos Exitosos</p>
@@ -195,6 +197,7 @@
     <footer class="footer">
         <div class="container footer__caption">
             <section class="download">
+                <h3 class="title__footer">Descarga nuestra App</h3>
                 <div class="download__app">
                 <div class="download__item">
                 <img class="download__logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAcxJREFUWEftl4ExBTEQhv9XATqgAypABXSACmhBBagAFaACVIAK0AEVMN9MmIhcdvMS7mbIzJubebd3+2X/3c3eTBNbs4nx6M8AbUjal8R1qUaFn4jQcYCB41XS4phAZ5J2IoBzSbtjASHPdeJ8RdLTWECXkrYi53uSiFjV6plDb60wPD8v0Kqk+2TrN+E/khqZsFmQ9FwjmxeISqGMSdDlCASZ+F1JepG0HWTjGlcX95DvMNgNyugBYqcXCUhVXkTGgG1movtpYgERjbvaXmLQAkX1cf22LCDyYn3ecGSeo1HSHtL8c0UIqYhOz7VWgrGqLO26rWCurl2SrLdcJDPvLK4SEElHH+m1XMdICSjuvD2gGEOylRW//DeBmiXrnUMnkg6sUJci1LvKYGkqe86tU2tHlfdpiEg3mEulCHFsPFY69JgDg3T0peqjIx26PA49Ng9hPKkGyo2lHoeWzeA0aR2uvLh3tTGwxTPVF3gPUO9cKvYjDxA7IAmPLB0c981e5AXCV2tfGkxk79GR23D8Vfpx/zbkGeXMHM0cFX8OYcfMTV9rOsuGFMAhQzxfFrSFnBPAqFBssRmcEFMnNZI5UqTd5B/IiuHkIvQOw5lPJdnUA2kAAAAASUVORK5CYII="/>
@@ -243,8 +246,8 @@
                 <img class="contact__icon" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAnxJREFUWEftl+FRFUEQhJsIhAjACJAIxAjACIQI1AjUCNAIgAjACJQIgAjUDDQCra9q12qO3dnZJz9eUU7VVb27tzvT19Mzs7ehNbONNcOjRwNoR9KBpH1J/H5WmL6R9F3SV0mfy++pJMwyRPB3ko6SUc4kfZgBNgPoUNKppM0kmLrsp6RjSZeZfVlAMAIYtytJMECauDBSx8X654v1gGJ9aBlAMHNhXm4lvSk6iZyjr4+Sdm3RyxFTI0Bo5trSBBgCkYaMkV4EXkGx72m0fwQIil+VyD0w74vQWYaAuXdbgjqPiiICBDvfzPOLTppGgHABq1/MFyzRHu5ZBAidnJQdCBinLcsAYh+pq0J/W/Q1BYgypflhUYVkAXml0jQplilAlHIV456VNgB+myeYq+zBApcbusJoBxQIhm98TgHyoJ5af97J4p3Hvb1NuUQaWjtA9Iwn5V2XKXMKSFcVK+Jfpqy2Aa+0X70RFDHkVRF12KyoveN3qzYCRNt/XaiImlkWkDfZT2X8TInaKSZ9Wx0FZwH1JNCtgFY8uul2+aPXizKAvAf9KIe65vuNZpkHAxwtfxXzF+t2aRyPADEYcVarrTU8RwD9paguZmT3tDACRDCfadx7CxiB8e7M2pCdDEM1oLcAGAPU6EwEu4wKGMGiAf33xTIMsRinzJ+aOgByHInMZyGpgq3mkcOdZAGxZ3mupq9QeS3znsP/w6NrdTIDiD0uUO5boJZghrpZlaG6bxmQe4JiHOj8my08rraonWWoB8o/g+qaaTAzVZbRia9ZCcy/AmoJnWepD8Jeea6aMvfHEK5fpOhneR4adIe7fz8EoKmAo8X/AY0Y+gMrWI4lvabo1QAAAABJRU5ErkJggg=="/>
                 <h3 class="contact__title">Paseo de la reforma</h3>
             </div>
-            <div class="item__contact">
-                <img class="contact__icon" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAVhJREFUWEftl+FNxDAMhb+bgNsA2IQNjhHYADaAmwA2ADZhBJgA2AAmAD0pPaVW07jF1xap+dkm7pf37MbZsLCxWRgP/xroAdgBZ0GqfgBPwD6P51VIMNdBIDaMgO6ah16gL+DkSEBS6nwoUBSL7L4Cbk3AgzBehaKAmjiyKIeaHUhKvWe77AWapJqAHw/QZNXkBZqsmrxAnTL+MaNLMV2WrUBJ/WKVrQqtCpXKO3v+mbc09iybI4d6248pgZoG7dALKZ/mVKjzf7sC1Y4hq1Df4dpKvlQZ98Bl7SPpfauaSmsskO3k8nU5kOap6d86YTTNbsiVQ5qkj6nvPTUrFPAFeBx4FZIyuu60qsmrkJ2XKyY7rSJvwE0CHSBWeWqtyS9Z+J12rA4zdIwBek6qSLHwMQQo3J6u3XiAlCOyLtyeMUAXwCtwFHvGAIXnSC1gzbLa+vD3iwP6BXTYViV6p3m8AAAAAElFTkSuQmCC"/>
+            <div class="item__contact item__contact--gold">
+                <img class="contact__icon contact__icon--modifier" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAVhJREFUWEftl+FNxDAMhb+bgNsA2IQNjhHYADaAmwA2ADZhBJgA2AAmAD0pPaVW07jF1xap+dkm7pf37MbZsLCxWRgP/xroAdgBZ0GqfgBPwD6P51VIMNdBIDaMgO6ah16gL+DkSEBS6nwoUBSL7L4Cbk3AgzBehaKAmjiyKIeaHUhKvWe77AWapJqAHw/QZNXkBZqsmrxAnTL+MaNLMV2WrUBJ/WKVrQqtCpXKO3v+mbc09iybI4d6248pgZoG7dALKZ/mVKjzf7sC1Y4hq1Df4dpKvlQZ98Bl7SPpfauaSmsskO3k8nU5kOap6d86YTTNbsiVQ5qkj6nvPTUrFPAFeBx4FZIyuu60qsmrkJ2XKyY7rSJvwE0CHSBWeWqtyS9Z+J12rA4zdIwBek6qSLHwMQQo3J6u3XiAlCOyLtyeMUAXwCtwFHvGAIXnSC1gzbLa+vD3iwP6BXTYViV6p3m8AAAAAElFTkSuQmCC"/>
                 <h3 class="contact__title">Contactanos ahora</h3>
             </div>
         </div>
