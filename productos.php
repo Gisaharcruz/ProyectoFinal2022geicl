@@ -66,13 +66,13 @@
 <div class="div1">&nbsp; <img class="control3" src="images/producto6.png" alt=""><br><br>
 <h5 align="center">Toyota Corolla Hybrid</h5>
 <p align="center">Precio: Q192,400.00</p><br>
-<center><a class="bt1" href="https://www.toyota.com/espanol/corollahybrid/">Más Información</a></center>
+<center><a class="bt1" href="http://localhost/pcc22isaharcruz/productocarros/corollahybrid.php">Más Información</a></center>
 </div>
 
 <div class="div1">&nbsp; <img class="control4" src="images/producto7.png" alt=""><br><br>
 <h5 align="center">Toyota GR86</h5>
 <p align="center">Precio: Q223,200.00</p><br>
-<center><a class="bt1" href="https://www.toyota.com/espanol/gr86/">Más Información</a></center>
+<center><a class="bt1" href="http://localhost/pcc22isaharcruz/productocarros/gr86.php">Más Información</a></center>
 </div>
 </div>
 <br><br>
@@ -89,19 +89,19 @@
 <div class="div1">&nbsp; <img class="control2" src="images/producto9.png" alt=""><br><br>
 <h5 align="center">Toyota Prius Prime</h5>
 <p align="center">Precio: Q230,160.00</p><br>
-<center><a class="bt1" href="https://www.toyota.com/espanol/priusprime/">Más Información</a></center>
+<center><a class="bt1" href="http://localhost/pcc22isaharcruz/productocarros/corollahatchback.php">Más Información</a></center>
 </div>
 
 <div class="div1">&nbsp; <img class="control3" src="images/producto10.png" alt=""><br><br>
 <h5 align="center">Toyota Mirai</h5>
 <p align="center">Precio: Q396,000.00</p><br>
-<center><a class="bt1" href="https://www.toyota.com/espanol/mirai/">Más Información</a></center>
+<center><a class="bt1" href="http://localhost/pcc22isaharcruz/productocarros/mirai.php">Más Información</a></center>
 </div>
 
 <div class="div1">&nbsp; <img class="control4" src="images/producto11.png" alt=""><br><br>
 <h5 align="center">Toyota Prius</h5>
 <p align="center">Precio: Q200,600.00</p><br>
-<center><a class="bt1" href="https://www.toyota.com/espanol/prius/">Más Información</a></center>
+<center><a class="bt1" href="http://localhost/pcc22isaharcruz/productocarros/prius.php">Más Información</a></center>
 </div>
 </div>
 <br><br>
