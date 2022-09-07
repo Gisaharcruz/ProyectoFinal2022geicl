@@ -23,7 +23,7 @@
 
     <div class="formulario">
 
-          <form action="insertarcontacto.php" method="post">       
+          <form action="insertarcontacto.php" method="POST">       
 
             
                 <p>

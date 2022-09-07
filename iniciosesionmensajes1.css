@@ -57,7 +57,7 @@ a{
 }
 
 .form-content h3{
-    font-size: 28px;
+    font-size: 25px;
     text-align: center;
     line-height: 1.2;
     font-weight: 500;
@@ -85,7 +85,7 @@ a{
     color: inherit;
     font-weight: inherit;
     font-family: inherit;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 .form-content .btn{
@@ -116,11 +116,11 @@ a{
 }
 
 .btn {
-    background-color: #0000ff;
+    background-color: #81cf92;
 }
 
 .form-content .btn:hover::before{
-    background-color: #3939ff;
+    background-color: #9bfab0;
 }
 
 .form-content p{
