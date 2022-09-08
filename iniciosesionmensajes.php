@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="iniciosesionmensajes1.css">
+    <link rel="stylesheet" href="iniciosesionmensajes0.css">
     <title>Iniciar Sesión</title>
     <script src="https://kit.fontawesome.com/05f5e822e2.js" crossorigin="anonymous"></script>
-    <script src="login2.js"></script>
+    <script src="login1.js"></script>
 </head>
 <body>
 <section class="form-main">

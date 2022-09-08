@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contactanos</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="stylecontactenos.css">
-    <link rel="stylesheet" href="contacto.css">
+    <link rel="stylesheet" href="stylecontactenos1.css">
+    <link rel="stylesheet" href="contacto2.css">
     <link rel="stylesheet" href="footer.css">
 </head>
 <body>
@@ -17,49 +17,18 @@
 <!--<a href="mensajes.php" class="btn13">Mensajes</a>-->
 <br><br>
 
-<h3>&nbsp; Contactenos</h3>
   <!-- formulario de contacto en html y css -->  
-  <div class="contact_form">
+  <form action="insertarcontacto1.php" metod="POST" class="form">
+    <div class="form__container">
+      <h2 class="form__title">Contactenos</h2>
+      <input type="text" name="nombre" class="form__input" placeholder="Nombre">
+      <input type="int" name="telefono" class="form__input" placeholder="Telefono">
+      <input type="email" name="correo" class="form__input" placeholder="Correo Electronico">
+      <textarea name="mensaje" class="form__input form__input--message" placeholder="Mensaje"></textarea>
 
-    <div class="formulario">
-
-          <form action="insertarcontacto.php" method="POST">       
-
-            
-                <p>
-                  <label for="nombre" class="colocar_nombre">Nombre
-                    <span class="obligatorio">*</span>
-                  </label>
-                    <input type="text" name="introducir_nombre" id="nombre" required="obligatorio" placeholder="Escribe tu Nombre">
-                </p>
-            
-                <p>
-                  <label for="telefone" class="colocar_telefono">Telefono/Celular
-                  <span class="obligatorio">*</span>
-                  </label>
-                    <input type="tel" name="introducir_telefono" id="celular" placeholder="Escribe tu Correo">
-                </p>  
-
-                <p>
-                  <label for="email" class="colocar_email">Correo Electronico
-                    <span class="obligatorio">*</span>
-                  </label>
-                    <input type="email" name="introducir_email" id="correo" required="obligatorio" placeholder="Escribe tu Telefono">
-                </p>
-
-                <p>
-                  <label for="mensaje" class="colocar_mensaje">Mensaje
-                    <span class="obligatorio">*</span>
-                  </label>                     
-                  <textarea name="introducir_mensaje" class="texto_mensaje" id="mensaje" required="obligatorio" placeholder="Deja aquí tu comentario..."></textarea> 
-                </p>                    
-              
-                <button type="submit" name="enviar_formulario" id="enviar"><p>Enviar</p></button>
-        
-            
-          </form>
-    </div>  
-  </div>
+      <input type="submit" value="Enviar" name="aceptar" class="form__cta">
+    </div>
+  </form>
   <br>
 
     <footer class="footer">

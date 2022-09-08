@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../productocarros/grsupra2.css">
-    <title>Toyota GR Supra</title>
+    <title>Toyota Avalon Hybrid</title>
 </head>
 <body>
     <header class="hero">
         <nav class="nav__hero">
             <div class="container nav__container">
                 <div class="logo">
-                    <h2 class="logo__name">Toyota GR Supra<span class="point">.</span></h2>
+                    <h2 class="logo__name">Toyota Avalon Hybrid<span class="point">.</span></h2>
                 </div>
                 <div class="links">
                     <a href="#" class="link">Inicio</a>
@@ -26,11 +26,11 @@
 
         <section class="container hero_main">
             <div class="hero__textos">
-                <h1 class="title">Datos Tecnicos del <span class="title--active">Toyota GR Supra.</span></h1>
+                <h1 class="title">Datos Tecnicos del <span class="title--active">Toyota Avalon Hybird.</span></h1>
                 <p class="copy">Nos encargamos que usted tenga la mejor experiencia <span class="copy__active">de su vida</span></p>
                 <a href="#" class="cta">Compra tu carro</a>
-            </div>
-            <img src="../images/producto1.png" class="mockup">
+            </div><br>
+            <center><img src="../images/toyota__avalon__hybrid.jpg" class="mockup"></center>
         </section>
     </header>
 
@@ -42,7 +42,7 @@
 
                 <article class="container-card">
                     <div class="card">
-                        <img src="../images/supra.jpg" class="card__img">
+                        <img src="../images/toyota__avalon__hybrid1.jfif" class="card__img">
                         <div class="cards__text">
                             <p class="card__list">Especialidades en carros toyota</p>
                             <h3 class="card__title">Web Toyota<span class="point">.</span></h3>
@@ -52,7 +52,7 @@
                     </div>
 
                         <div class="card">
-                        <img src="../images/supra.jpg" class="card__img">
+                        <img src="../images/toyota__avalon__hybrid2.jpg" class="card__img">
                         <div class="cards__text">
                             <p class="card__list">Especialidades en carros toyota</p>
                             <h3 class="card__title">Web Toyota<span class="point">.</span></h3>
@@ -62,7 +62,7 @@
                     </div>
 
                         <div class="card">
-                        <img src="../images/supra.jpg" class="card__img">
+                        <img src="../images/toyota__avalon__hybrid3.jpg" class="card__img">
                         <div class="cards__text">
                             <p class="card__list">Especialidades en carros toyota</p>
                             <h3 class="card__title">Web Toyota<span class="point">.</span></h3>
@@ -88,9 +88,9 @@
                 </div>
             </div>
             <div class="background">
-                <img src="../images/supra.jpg" class="background__img">
+                <img src="../images/toyota__avalon__hybrid4.png" class="background__img">
                 <div class="background__text">
-                <h3 class="background__title">El mejor GR Supra del 2022</h3>
+                <h3 class="background__title">El mejor Avalon Hybrid del 2022</h3>
                 <p class="background__copy">Tu experiencia aumenta con Toyota</p>
                 </div>
             </div>
@@ -104,9 +104,9 @@
                 </div>
             </div>
             <div class="background">
-                <img src="../images/supra.jpg" class="background__img">
+                <img src="../images/toyota__avalon__hybrid5.jfif" class="background__img">
                 <div class="background__text">
-                <h3 class="background__title">El mejor GR Supra del 2022</h3>
+                <h3 class="background__title">El mejor Avalon Hybrid del 2022</h3>
                 <p class="background__copy">Tu experiencia aumenta con Toyota</p>
                 </div>
             </div>

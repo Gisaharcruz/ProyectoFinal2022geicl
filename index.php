@@ -7,7 +7,7 @@
     <title>Iniciar Sesión</title>
     <link rel="stylesheet" href="css/estilos.css">
     <script src="https://kit.fontawesome.com/05f5e822e2.js" crossorigin="anonymous"></script>
-    <script src="login.js"></script>
+    <script src="login0.js"></script>
 </head>
 <body>
     <section class="form-main">

@@ -15,7 +15,7 @@
             <div class="circle-3"></div>
             <div class="box">
                 <h3>Registrarse</h3>
-                <form action="">
+                <form action="home.php">
                     <div class="input-box">
                         <input type="text" placeholder="Nombre" class="input-control">
                     </div>
