@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../productocarros/grsupra2.css">
-    <title>Toyota GR Supra</title>
+    <title>Toyota Corolla</title>
 </head>
 <body>
     <header class="hero">
         <nav class="nav__hero">
             <div class="container nav__container">
                 <div class="logo">
-                    <h2 class="logo__name">Toyota GR Supra<span class="point">.</span></h2>
+                    <h2 class="logo__name">Toyota Corolla<span class="point">.</span></h2>
                 </div>
                 <div class="links">
                     <a href="#" class="link">Inicio</a>
@@ -26,11 +26,11 @@
 
         <section class="container hero_main">
             <div class="hero__textos">
-                <h1 class="title">Datos Tecnicos del <span class="title--active">Toyota GR Supra.</span></h1>
+                <h1 class="title">Datos Tecnicos del <span class="title--active">Toyota Corolla.</span></h1>
                 <p class="copy">Nos encargamos que usted tenga la mejor experiencia <span class="copy__active">de su vida</span></p>
                 <a href="#" class="cta">Compra tu carro</a>
-            </div>
-            <img src="../images/producto1.png" class="mockup">
+            </div><br><br>
+            <center><img src="../images/corolla.jpg" class="mockup"></center>
         </section>
     </header>
 
