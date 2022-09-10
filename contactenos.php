@@ -18,7 +18,7 @@
 <br><br>
 
   <!-- formulario de contacto en html y css -->  
-  <form action="insertarcontacto1.php" metod="POST" class="form">
+  <form method="post" class="form">
     <div class="form__container">
       <h2 class="form__title">Contactenos</h2>
       <input type="text" name="nombre" class="form__input" placeholder="Nombre">
@@ -26,7 +26,7 @@
       <input type="email" name="correo" class="form__input" placeholder="Correo Electronico">
       <textarea name="mensaje" class="form__input form__input--message" placeholder="Mensaje"></textarea>
 
-      <input type="submit" value="Enviar" name="aceptar" class="form__cta">
+      <button type="submit" value="Enviar" name="aceptar" class="form__cta">Enviar</button>
     </div>
   </form>
   <br>
@@ -39,3 +39,23 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
 </body>
 </html>
+
+<?php
+include('bd.php');
+if (isset($_POST['aceptar'])) {
+    $nom=$_POST['nombre'];
+    $tel=$_POST['telefono'];
+    $corr=$_POST['correo'];
+    $men=$_POST['mensaje'];
+
+    $query="INSERT INTO mensajes(nombre, telefono, correo, mensaje) VALUES ('$nom', '$tel', '$corr', '$men')";
+    $resultado=mysqli_query($conect, $query);
+    if($resultado){
+            echo '<script lenguage="javascript">';
+            echo 'alert("¡Tu mensaje a sido enviado exitosamente, Gracias por usar nuestros servicios:)!")
+            window.location = "contactenos.php";
+            </script>';
+            }
+        }
+        mysqli_close($conect);
+?>

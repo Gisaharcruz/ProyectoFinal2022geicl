@@ -83,7 +83,7 @@
 <div class="div1">&nbsp; <img class="control" src="images/producto8.png" alt=""><br><br>
 <h5 align="center">Toyota Corolla Hatchback</h5>
 <p align="center">Precio: Q169,320.00</p><br>
-<center><a class="bt1" href="https://www.toyota.com/espanol/corollahatchback/">Más Información</a></center>
+<center><a class="bt1" href="http://localhost/pcc22isaharcruz/productocarros/corollahatchback.php">Más Información</a></center>
 </div>
 
 <div class="div1">&nbsp; <img class="control2" src="images/producto9.png" alt=""><br><br>

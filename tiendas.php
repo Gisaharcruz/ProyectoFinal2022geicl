@@ -21,7 +21,7 @@
 
 <div class="parent">
 <div class="div1">
-    &nbsp; <img class="centro" src="images/tienda1.jpg" alt="" style="border: 5px solid black;">
+    &nbsp; <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3759.9861425607455!2d-99.05893718509158!3d19.542208486822176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f1c8e7676545%3A0xaff69fb4a6b96784!2sToyota%20Kasa%20Santa%20Clara.!5e0!3m2!1ses!2sgt!4v1662700313740!5m2!1ses!2sgt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" alt=""></iframe>
 </div>
 <div class="div2"><h2 align="center">Toyota Kasa Santa Clara</h2><br><br>
 
@@ -38,7 +38,7 @@
 
 <div class="parent">
 <div class="div1">
-    &nbsp; <img class="centro2" src="images/tienda2.jpg" alt="" style="border: 5px solid black;">
+    &nbsp; <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61774.28949443005!2d-90.55915453936427!3d14.605165397937206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8589a2315e0c1959%3A0xfc170d79b9332a7e!2sToyota%20Cofi%C3%B1o%20Stahl!5e0!3m2!1ses!2sgt!4v1662700521517!5m2!1ses!2sgt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="div2"><h2 align="center">Toyota Cofiño Stahl</h2><br><br>
 
@@ -51,11 +51,11 @@
 
 </div>
 </div>
-<br><br><br><br><br><br><br>
+<br><br>
 
 <div class="parent">
 <div class="div1">
-    &nbsp; <img class="centro3" src="images/tienda3.jpg" alt="" style="border: 5px solid black;">
+    &nbsp; <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.0179215356193!2d-90.52731068693572!3d14.598054653240652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8589a3d9b4844d35%3A0xd73cc2651e4e415e!2sToyota%20Bulevar%20Liberaci%C3%B3n!5e0!3m2!1ses!2sgt!4v1662700590426!5m2!1ses!2sgt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="div2"><h2 align="center">Toyota Bulevar Liberación</h2><br><br>
 
