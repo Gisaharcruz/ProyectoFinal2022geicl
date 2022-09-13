@@ -90,7 +90,7 @@
             <div class="background">
                 <img src="../images/toyota__corolla4.jfif" class="background__img">
                 <div class="background__text">
-                <h3 class="background__title">El mejor GR Supra del 2022</h3>
+                <h3 class="background__title">El mejor Toyota Corolla del 2022</h3>
                 <p class="background__copy">Tu experiencia aumenta con Toyota</p>
                 </div>
             </div>
@@ -106,7 +106,7 @@
             <div class="background">
                 <img src="../images/toyota__corolla5.jpg" class="background__img">
                 <div class="background__text">
-                <h3 class="background__title">El mejor GR Supra del 2022</h3>
+                <h3 class="background__title">El mejor Toyota Corolla del 2022</h3>
                 <p class="background__copy">Tu experiencia aumenta con Toyota</p>
                 </div>
             </div>

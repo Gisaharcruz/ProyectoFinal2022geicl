@@ -42,7 +42,7 @@
 
                 <article class="container-card">
                     <div class="card">
-                        <img src="../images/supra.jpg" class="card__img">
+                        <img src="../images/corolla__hatchback1.jfif" class="card__img">
                         <div class="cards__text">
                             <p class="card__list">Especialidades en carros toyota</p>
                             <h3 class="card__title">Web Toyota<span class="point">.</span></h3>
@@ -52,7 +52,7 @@
                     </div>
 
                         <div class="card">
-                        <img src="../images/supra.jpg" class="card__img">
+                        <img src="../images/corolla__hatchback5.jpg" class="card__img">
                         <div class="cards__text">
                             <p class="card__list">Especialidades en carros toyota</p>
                             <h3 class="card__title">Web Toyota<span class="point">.</span></h3>
@@ -62,7 +62,7 @@
                     </div>
 
                         <div class="card">
-                        <img src="../images/supra.jpg" class="card__img">
+                        <img src="../images/corolla__hatchback2.jpg" class="card__img">
                         <div class="cards__text">
                             <p class="card__list">Especialidades en carros toyota</p>
                             <h3 class="card__title">Web Toyota<span class="point">.</span></h3>
@@ -88,9 +88,9 @@
                 </div>
             </div>
             <div class="background">
-                <img src="../images/supra.jpg" class="background__img">
+                <img src="../images/corolla__hatchback3.jfif" class="background__img">
                 <div class="background__text">
-                <h3 class="background__title">El mejor GR Supra del 2022</h3>
+                <h3 class="background__title">El mejor Corolla Hatchback del 2022</h3>
                 <p class="background__copy">Tu experiencia aumenta con Toyota</p>
                 </div>
             </div>
@@ -104,9 +104,9 @@
                 </div>
             </div>
             <div class="background">
-                <img src="../images/supra.jpg" class="background__img">
+                <img src="../images/corolla__hatchback4.jfif" class="background__img">
                 <div class="background__text">
-                <h3 class="background__title">El mejor GR Supra del 2022</h3>
+                <h3 class="background__title">El mejor Corolla Hatchback del 2022</h3>
                 <p class="background__copy">Tu experiencia aumenta con Toyota</p>
                 </div>
             </div>
@@ -120,22 +120,22 @@
 
                 <div class="testimony-container">
                         <div class="testimony__card">
-                        <img src="../images/producto1.png" class="testimony__img">
+                        <img src="../images/google__director.jpg" class="testimony__img">
                         <div class="testimony__copy">
                         <img class="testimony__logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAgRJREFUWEftltsxREEQhv+NABEgAyJABIgAGRABIkAEyMBGgAyIABkQAfVVzVYdx/Rl9titfdiu2tqHM5dvuv++jLRgNlowHi2BoogM9dCupG9JW5I+Jb1L+pL0El1sfZ8G6EDSkSRgVo2DAXuSdFkg03wtQACcF5D0BZLuJJ0VD4b7skDHkm7D0+wFhPOweM09JgPECwnREENXeDjUVgQ01DM8Ig3DYg+IFz06bvko+uDV/AgL2YboechKK0wERJbsGEA3ki4coZJ9fCfcYZi6d1ge8kKFOB+GCMrbawFx4X5lI545nRWMFzKqb99eS6aglZlZzUOWmKm66MIyvtUeYq1/rtWlFqC9oLC1wABZDX8NiJfSIvq2FpT/ViA8RDR+WQvQZtAoZwZkaei/Q1bVZIuGIlFTSC2rFdg0EIeS2pT+rjHjbGfHiM7GDUlvFdJqgZ1HYbSSpHq3BeQ11pPSozLF0TpnXJrwnzO8bu81V1oLYF7VpsVQPmpjrpkgHhCjBFB9LU1ehaYAo5vTVriY1McrjCDsr5npHRbPY0DrQjGsIXLTsxEQh+H6q4xggjWpyTEDxD3MR9dO+CJepkvCGA5rWSAuxNVMgNYUaUHdFy+nxpYWoMmFiBaP8b9uUCByEgKvIv60TQPUPZxM6qc1AE0Q3QOHAqVfnl24BIo8tXAe+gFPeGwlzWWFWwAAAABJRU5ErkJggg=="/>
                         <div class="testimony__info">
-                            <h3 class="testimony__name">Gilmar Cruz</h3>
+                            <h3 class="testimony__name">Sundar Pichai</h3>
                             <p class="testimony__position">Director de Google Guatemala</p>
                             </div>
                         </div>
                     </div>
 
                     <div class="testimony__card">
-                        <img src="../images/producto1.png" class="testimony__img">
+                        <img src="../images/apple__director.jpeg" class="testimony__img">
                         <div class="testimony__copy">
                         <img class="testimony__logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAcxJREFUWEftl4ExBTEQhv9XATqgAypABXSACmhBBagAFaACVIAK0AEVMN9MmIhcdvMS7mbIzJubebd3+2X/3c3eTBNbs4nx6M8AbUjal8R1qUaFn4jQcYCB41XS4phAZ5J2IoBzSbtjASHPdeJ8RdLTWECXkrYi53uSiFjV6plDb60wPD8v0Kqk+2TrN+E/khqZsFmQ9FwjmxeISqGMSdDlCASZ+F1JepG0HWTjGlcX95DvMNgNyugBYqcXCUhVXkTGgG1movtpYgERjbvaXmLQAkX1cf22LCDyYn3ecGSeo1HSHtL8c0UIqYhOz7VWgrGqLO26rWCurl2SrLdcJDPvLK4SEElHH+m1XMdICSjuvD2gGEOylRW//DeBmiXrnUMnkg6sUJci1LvKYGkqe86tU2tHlfdpiEg3mEulCHFsPFY69JgDg3T0peqjIx26PA49Ng9hPKkGyo2lHoeWzeA0aR2uvLh3tTGwxTPVF3gPUO9cKvYjDxA7IAmPLB0c981e5AXCV2tfGkxk79GR23D8Vfpx/zbkGeXMHM0cFX8OYcfMTV9rOsuGFMAhQzxfFrSFnBPAqFBssRmcEFMnNZI5UqTd5B/IiuHkIvQOw5lPJdnUA2kAAAAASUVORK5CYII="/>
                         <div class="testimony__info">
-                            <h3 class="testimony__name">Gilmar Cruz</h3>
+                            <h3 class="testimony__name">Tim Cook</h3>
                             <p class="testimony__position">Director de Apple Guatemala</p>
                             </div>
                         </div>
@@ -146,9 +146,9 @@
                             <img src="../images/google-logo.ico" class="google__logo">
                             <p class="testimony__history">Desde que empezamos a trabajar con Toyota comenzamos a tener resultados increíbles. Ahora hemos llegado a un mayor número de clientes potenciales.</p>
                             <div class="testimony__copy testimony__copy--modifier">
-                            <img src="../images/producto1.png" class="logo--picture">
+                            <img src="../images/google__director.jpg" class="logo--picture">
                             <div class="testimony__info">
-                                <h3 class="testimony__name">Gilmar Cruz</h3>
+                                <h3 class="testimony__name">Sundar Pichai</h3>
                                 <p class="testimony__position">Director de Google Guatemala</p>
                                 </div>
                             </div>
