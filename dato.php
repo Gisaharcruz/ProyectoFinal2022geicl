@@ -19,7 +19,7 @@ function Header()
 
     $this->Cell(45,10,'no_mensajes',1,0,'C',0);
     $this->Cell(45,10,'nombre',1,0,'C',0);
-    $this->Cell(70,10,'telefono',1,0,'C',0);
+    $this->Cell(50,10,'telefono',1,0,'C',0);
     $this->Cell(70,10,'correo',1,0,'C',0);
     $this->Cell(70,10,'mensaje',1,1,'C',0);
 
@@ -48,7 +48,7 @@ $pdf->SetFont('Times','',12);
 while ($row=$resultado->fetch_assoc()){
     $pdf->Cell(45,10,$row['no_mensajes'],1,0,'C',0);
     $pdf->Cell(45,10,utf8_decode($row['nombre']),1,0,'C',0);
-    $pdf->Cell(70,10,utf8_decode($row['telefono']),1,0,'C',0);
+    $pdf->Cell(50,10,utf8_decode($row['telefono']),1,0,'C',0);
     $pdf->Cell(70,10,utf8_decode($row['correo']),1,0,'C',0);
     $pdf->Cell(70,10,utf8_decode($row['mensaje']),1,1,'C',0);
 }

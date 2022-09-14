@@ -22,7 +22,11 @@
 <h3> &nbsp; Mensajes Recibidos</h3>
 <br>
 
-<a href="dato.php"><input type="submit" value="PDF"></a>
+<div style="text-align: right;">
+<a href="dato.php">
+  <input class="btn" type="submit" value="PDF">
+</a>
+</div>
 <br>
 
 <div class="col-8">
