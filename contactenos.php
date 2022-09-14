@@ -15,7 +15,7 @@
 <a href="productos.php" class="btn11">Productos</a>
 <a href="iniciosesionmensajes.php" class="btn12">Iniciar Sesion</a>
 <!--<a href="mensajes.php" class="btn13">Mensajes</a>-->
-<br><br>
+<br><br><br>|
 
   <!-- formulario de contacto en html y css -->  
   <form method="post" class="form">
@@ -29,7 +29,7 @@
       <button type="submit" value="Enviar" name="aceptar" class="form__cta">Enviar</button>
     </div>
   </form>
-  <br>
+  <br><br><br>
 
     <footer class="footer">
       &nbsp; &nbsp; &nbsp; &nbsp; PBX: 1749 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dirección: 8va. Calle 23-34 Zona 14 San Miguelito &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Carnet: 2021-40001 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nombre: Gilmar Elibán Isahar Crúz Lucas

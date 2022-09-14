@@ -98,10 +98,10 @@
 <center><a class="bt1" href="productocarros/mirai.php">Más Información</a></center>
 </div>
 
-<div class="div1">&nbsp; <img class="control4" src="images/producto11.png" alt=""><br><br>
-<h5 align="center">Toyota Prius</h5>
-<p align="center">Precio: Q200,600.00</p><br>
-<center><a class="bt1" href="productocarros/prius.php">Más Información</a></center>
+<div class="div1">&nbsp; <img class="control4" src="images/agya6.jpg" alt=""><br><br>
+<h5 align="center">Toyota Agya</h5>
+<p align="center">Precio: Q425,600.00</p><br>
+<center><a class="bt1" href="productocarros/agya.php">Más Información</a></center>
 </div>
 </div>
 <br><br>

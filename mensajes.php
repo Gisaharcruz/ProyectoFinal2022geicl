@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="stylemensajes.css">
     <link rel="stylesheet" href="tabla.css">
     <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="estilobotonesmensajes.css">
+
 </head>
 <body>
 
@@ -18,6 +20,9 @@
 <br><br>
 
 <h3> &nbsp; Mensajes Recibidos</h3>
+<br>
+
+<a href="dato.php"><input type="submit" value="PDF"></a>
 <br>
 
 <div class="col-8">
@@ -53,6 +58,9 @@
         <?php } ?>
         </table>
         </div>
+<br>
+
+<center><a class="btn" href="iniciosesionmensajes.php">Cerar Sesion</a></center>
 <br>
 
 <footer class="footer">
